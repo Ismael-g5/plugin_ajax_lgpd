@@ -1,0 +1,14 @@
+.wrap table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.wrap th, .wrap td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.wrap th {
+  background-color: #f4f4f4;
+  text-align: left;
+}
