@@ -26,5 +26,7 @@ function lgpd_admin_page() {
             </tbody>
         </table>
     </div>
+    
     <?php
+    
 }
